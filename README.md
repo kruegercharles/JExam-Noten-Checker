@@ -51,7 +51,7 @@ Wenn man die standardmäßig 10 Sekunden nicht wartet, bis das Skript den Nutzer
 In dem Fall kann man nur überprüfen, ob man irgendwo noch ein Fenster offen hat, bei dem man angemeldet ist. 
 Ansonsten kann man nur warten, bis man vom Server automatisch ausgeloggt wird, damit das Skript wieder ordnungsgemäß funktioniert. 
 
-## TO DO
+## Mögliche Verbesserungen
 - Keys in eine .env-Datei auslagern
 - Statt pip Poetry oder Pipenv nutzen
 - Herunterladen vom Chromedriver automatisieren
