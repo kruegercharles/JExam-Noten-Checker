@@ -34,6 +34,7 @@ driver.find_element(By.XPATH, "//div[@id=\'wrapper\']/div/div/div[2]/a[3]/span")
 driver.find_element(By.CSS_SELECTOR, ".btn:nth-child(2)").click()
 driver.find_element(By.CSS_SELECTOR, ".fill-primary:nth-child(2)").click()
 
+driver.execute_script("document.body.style.zoom = '80%';") # zoomt auf 80% heraus
 
 time.sleep(10) # wartet 10 Sekunden
 
