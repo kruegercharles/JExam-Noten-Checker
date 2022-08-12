@@ -1,4 +1,4 @@
-# JExam Noten Checker
+## JExam Noten Checker
 Dieses Programm ist für JExam von der TU Dresden.
 
 Leider ist JExam unnötig kompliziert. Man muss sich erst einloggen und dann zu den Prüfungsergebnissen navigieren. 
@@ -8,7 +8,7 @@ Dieses Tool loggt den Nutzer automatisch bei JExam ein, navigiert zu den Prüfun
 So kann man schnell überprüfen, ob es neue Noten gibt. 
 
 
-# Installation
+## Installation
 ### Schritt 1
 Selenium installieren - pip install selenium
 
@@ -28,7 +28,7 @@ Chromedriver irgendwo speichern, wo man ihn später leicht wiederfindet, da man 
 Python-Skript herunterladen und Settings ausfüllen, d.h. Username, Password und Pfad zum Chromedriver eintragen. 
 Und dann einfach das Skript ausführen.
 
-# Aber ich tippe meine Nutzerdaten doch nicht in irgendein Random-Skript auf Github!
+## Aber ich tippe meine Nutzerdaten doch nicht in irgendein Random-Skript auf Github!
 Sehr vernünftig, würde ich auch nicht machen!
 
 Das ist eine super Gelegenheit, um sich mit Selenium vertraut zu machen. 
