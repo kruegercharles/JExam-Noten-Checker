@@ -15,7 +15,7 @@ driver.implicitly_wait(10) # Wartet, bis Elemente geladen sind; muss nur einmal 
 
 # Window size
 driver.set_window_position(0,0)
-driver.set_window_size(1440,900) # Fenstergröße gegebenfalls anpassen
+driver.maximize_window()
 
 driver.get("https://jexam.inf.tu-dresden.de/de.jexam.web.v5/spring/welcome")
 
