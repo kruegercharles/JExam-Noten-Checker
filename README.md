@@ -49,6 +49,7 @@ Auch nützlich:
 ## Bekannte Fehler
 Wenn man das Skript mehrfach innerhalb einer gewissen Zeitspanne (z.B. 10 Minuten) ausführt, dann bekommt man einen Fehler beim Login, dass man schon eingeloggt sei - obwohl man am Ende von dem Skript eigentlich ausgeloggt wird. 
 Mir ist noch nicht ganz klar, warum das passiert. 
+Einzige Lösung bis jetzt: kurz abwarten. 
 
 ## Mögliche Verbesserungen
 - Keys in eine .env-Datei auslagern
