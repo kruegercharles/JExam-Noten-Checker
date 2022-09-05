@@ -19,10 +19,13 @@ Selenium installieren - `pip install selenium`
 Chromedriver runterladen: https://chromedriver.chromium.org/downloads
 
 Achtung: 
+
 Die Version vom Chromedriver muss zur Version von Chrome passen, die man installiert hat. 
+
 D.h. vorher checken, welche Chrome-Version man hat und den entsprechenden Chrome-Driver herunterladen. 
 
 Alternativ könnte man auch den Driver für Firefox, Brave, Safari etc. nutzen, aber damit wurde das Skript nicht getestet. 
+
 Außerdem müsste man dann die Zeile `driver = webdriver.Chrome(PATH)` anpassen. 
 
 ### Schritt 3
@@ -30,12 +33,14 @@ Chromedriver irgendwo speichern, wo man ihn später leicht wiederfindet, da man 
 
 ### Schritt 4
 Python-Skript herunterladen und Settings ausfüllen, d.h. Username, Password und Pfad zum Chromedriver eintragen. 
+
 Und dann einfach das Skript ausführen.
 
 ## Aber ich tippe meine Nutzerdaten doch nicht in irgendein Random-Skript auf Github!
 Sehr vernünftig, würde ich auch nicht machen!
 
 Das ist eine super Gelegenheit, um sich mit Selenium vertraut zu machen. 
+
 Und da das Skript relativ einfach ist, kann man schnell verstehen, was jeder einzelne Befehl macht, sodass man mir nicht vertrauen muss. 
 
 Ich empfehle dieses Einführungs-Tutorial für Selenium: https://www.youtube.com/watch?v=Xjv1sY630Uc
@@ -47,8 +52,10 @@ Auch nützlich:
 - Selenium IDE für Chrome: https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
 
 ## Bekannte Fehler
-Wenn man das Skript mehrfach innerhalb einer gewissen Zeitspanne (z.B. 10 Minuten) ausführt, dann bekommt man einen Fehler beim Login, dass man schon eingeloggt sei - obwohl man am Ende von dem Skript eigentlich ausgeloggt wird.   
-Mir ist noch nicht ganz klar, warum das passiert.  
+Wenn man das Skript mehrfach innerhalb einer gewissen Zeitspanne (z.B. 10 Minuten) ausführt, dann bekommt man einen Fehler beim Login, dass man schon eingeloggt sei - obwohl man am Ende von dem Skript eigentlich ausgeloggt wird.
+
+Mir ist noch nicht ganz klar, warum das passiert.
+
 Einzige Lösung bis jetzt: kurz abwarten. 
 
 ## Mögliche Verbesserungen
