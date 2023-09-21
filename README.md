@@ -36,18 +36,7 @@ Python-Skript herunterladen und Settings ausfüllen, d.h. Username, Password und
 
 Und dann einfach das Skript ausführen.
 
-## Aber ich tippe meine Nutzerdaten doch nicht in irgendein Random-Skript auf Github!
-Sehr vernünftig, würde ich auch nicht machen!
-
-Das ist eine super Gelegenheit, um sich mit Selenium vertraut zu machen. 
-
-Und da das Skript relativ einfach ist, kann man schnell verstehen, was jeder einzelne Befehl macht, sodass man mir nicht vertrauen muss. 
-
-Ich empfehle dieses Einführungs-Tutorial für Selenium: https://www.youtube.com/watch?v=Xjv1sY630Uc
-
-Achtung: Die Syntax hat sich geringfügig geändert, aber im Großen und Ganzen ist das Tutorial noch aktuell. 
-
-Auch nützlich:
+Nützlich:
 - die Selenium Dokumenation: https://www.selenium.dev/documentation/overview/
 - Selenium IDE für Chrome: https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
 
