@@ -36,8 +36,8 @@ Python-Skript herunterladen und Settings ausfüllen, d.h. Username, Password und
 
 Und dann einfach das Skript ausführen.
 
-Nützlich:
-- die Selenium Dokumenation: https://www.selenium.dev/documentation/overview/
+## Nützlich
+- Selenium Dokumenation: https://www.selenium.dev/documentation/overview/
 - Selenium IDE für Chrome: https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
 
 ## Bekannte Fehler
